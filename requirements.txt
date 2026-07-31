@@ -4,3 +4,4 @@ gigachat
 pyTelegramBotAPI
 vosk
 sounddevice
+numpy
